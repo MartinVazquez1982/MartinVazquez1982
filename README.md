@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/MartinVazquez1982">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MartinVazquez1982&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MartinVazquez1982&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MartinVazquez1982&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MartinVazquez1982&layout=compact&langs_count=8&theme=calm"/>
 </a>
 </p>
