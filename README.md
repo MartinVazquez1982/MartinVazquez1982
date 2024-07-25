@@ -18,6 +18,6 @@
 <p align="center">
 &nbsp; <a href="https://x.com/ArispeVazquez" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" width="50" /></a>  
 &nbsp; <a href="https://martinvazquez1982.github.io/my_portfolio_page/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=102562&format=png&color=000000" width="50" /></a>  
-&nbsp; <a href="www.linkedin.com/in/martin-vazquez-arispe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/martin-vazquez-arispe" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="50" /></a>
 &nbsp; <a href="mailto:martin.vazquez.arispe@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000"  width="50" /></a>
 </p>
